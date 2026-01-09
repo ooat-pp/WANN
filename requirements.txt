@@ -1,0 +1,5 @@
+# Core Deep Learning Framework
+torch==2.5.1
+
+# Wavelet Transform Toolbox for PyTorch
+ptwt==1.0.0
